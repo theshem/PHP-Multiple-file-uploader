@@ -1,3 +1,3 @@
 PHP-Multiple-file-uploader
 ==========================
-first release.
+first release. ver 0.5
